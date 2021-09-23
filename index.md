@@ -1,3 +1,6 @@
+---
+title: A Developer Blog
+---
 ## Feed your head, Free your mind..
 
 Early Adopter, Technologist, CommunityGrid Creator. Read more about.me/dwightaspencer and sign my key at keybase.io/denzuko
